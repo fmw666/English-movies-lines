@@ -13,6 +13,16 @@
     <a href="">
         <img src="pics/bighero6.jpg" width=200>
     </a>
+</div>
+
+<div align=center>
+    <a href="">
+        <img src="pics/bighero6.jpg" width=200>
+    </a>
+    &emsp;&emsp;
+    <a href="">
+        <img src="pics/bighero6.jpg" width=200>
+    </a>
     &emsp;&emsp;
     <a href="">
         <img src="pics/bighero6.jpg" width=200>
