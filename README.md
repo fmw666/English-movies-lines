@@ -33,3 +33,5 @@
         <img src="pics/bighero6.jpg" width=200>
     </a>
 </div>
+
+<hr>
