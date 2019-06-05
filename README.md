@@ -4,17 +4,13 @@
 <div align=center>
     <a href="">
         <img src="pics/bighero6.jpg" width=200>
-        <br>
-        《超能陆战队》（Big Hero 6）
     </a>
+    &emsp;
     <a href="">
         <img src="pics/bighero6.jpg" width=200>
-        <br>
-        《超能陆战队》（Big Hero 6）
     </a>
+    &emsp;
     <a href="">
         <img src="pics/bighero6.jpg" width=200>
-        <br>
-        《超能陆战队》（Big Hero 6）
     </a>
 </div>
