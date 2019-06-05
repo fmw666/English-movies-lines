@@ -1,5 +1,7 @@
 ## 超能陆战队
 
+*00:00:00 -> 00:23:30*
+
 > **Get up! Get up!**（起来，起来）
 
 > **The winner! By total annihilation.Yama!**（赢家诞生，完胜对手，催命阎王Yama!）
@@ -463,6 +465,13 @@
 > **[T](#welcome) :  Callaghan’s in there. Someone has to help.**
 
 > **[H](#welcome) : Tadashi.Tadashi.Tadashi.**
+
+<div align="right">
+    <a href="">00:00:00 -> 00:23:30 ➡</a><br>
+    <a href="">00:00:00 -> 00:23:30 ➡</a><br>
+</div>
+
+*00:23:30 -> *
 
 > **[Cass](#welcome) : Hey...**
 
