@@ -1,9 +1,13 @@
 # English-movies-lines
-🍟 英语电影台词，供英语（口语）学习
+
+英语电影台词，供学习使用
 
 <div align=center>
     <a href="">
+        <div align=center>
         <img src="pics/bighero6.jpg" width=200 title="超能陆战队">
+        <br>he
+        </div>
     </a>
     &emsp;&emsp;&emsp;
     <a href="">
