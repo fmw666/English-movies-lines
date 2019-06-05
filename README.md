@@ -5,11 +5,11 @@
     <a href="">
         <img src="pics/bighero6.jpg" width=200>
     </a>
-    &emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;
     <a href="">
         <img src="pics/bighero6.jpg" width=200>
     </a>
-    &emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;
     <a href="">
         <img src="pics/bighero6.jpg" width=200>
     </a>
@@ -21,11 +21,11 @@
     <a href="">
         <img src="pics/bighero6.jpg" width=200>
     </a>
-    &emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;
     <a href="">
         <img src="pics/bighero6.jpg" width=200>
     </a>
-    &emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;
     <a href="">
         <img src="pics/bighero6.jpg" width=200>
     </a>
