@@ -15,6 +15,8 @@
     </a>
 </div>
 
+<hr>
+
 <div align=center>
     <a href="">
         <img src="pics/bighero6.jpg" width=200>
