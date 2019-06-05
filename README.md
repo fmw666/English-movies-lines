@@ -3,7 +3,7 @@
 
 <div align=center>
     <a href="">
-        <img src="pics/bighero6.jpg" width=200>
+        <img src="pics/bighero6.jpg" width=200 title="超能陆战队">
     </a>
     &emsp;&emsp;&emsp;
     <a href="">
