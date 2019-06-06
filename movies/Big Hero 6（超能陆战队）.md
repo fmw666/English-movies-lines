@@ -1,82 +1,101 @@
 ## 超能陆战队
 
++ 00:00:00 -> 00:23:30 [➡](#1)
+
++ 
+
+<a name="1"></a>
 *00:00:00 -> 00:23:30*
 
 > **Get up! Get up!**（起来，起来）
 
-> **The winner! By total annihilation.Yama!**（赢家诞生，完胜对手，催命阎王Yama!）
+> **The winner! By total annihilation, Yama!**（赢家诞生，完胜对手，催命阎王Yama!）
 
 > **[Yama](#welcome) : Who’s next ? Where’s the guts to stop me in the ring.With little Yama!**（谁是下一个？谁还有胆量在赛场上一决雌雄，挑战我的小阎王）
 
-> **[Hiro](#welcome) : Can I try?**
+> **[Hiro](#welcome) : Can I try?**（我能试试吗？）
 
-> **[Hiro](#welcome) : I have a robot.I built it myself.**
+> **[Hiro](#welcome) : I have a robot.I built it myself.**（我有个机器人，我自己做的） 
 
-> **Beat it kid!House Rules:You gotta pay to play.**
+> **Beat it kid!House Rules:You gotta pay to play.**（来吧小子，懂规矩吗？先付钱后上场 ）
 
-> **[Hiro](#welcome) : Oh,is this enough?**
+> **[Hiro](#welcome) : Oh,is this enough?**（这些够吗?）
 
-> **[Yama](#welcome) : What’s your name,little boy?**
+> **[Yama](#welcome) : What’s your name,little boy?**（你叫什么名字，孩子）
 
-> **Hiro, Hiro Hamada.**
+> **[Hiro](#welcome) : Hiro, Hiro Hamada.**（小宏，宏伟的宏）
 
-> **[Yama](#welcome) : Prepare your bot,Zero...**
+> **[Yama](#welcome) : Prepare your bot,Zero...**（机器人准备，零蛋君）
 
-> **Two bots enter...One might leaves. ----Fighters ready?-----Fight!**
+> **Two bots enter, One might leaves. Fighters ready? Fight!**（生死对决，幸存者胜。准备好了吗？开战！）
 
-> **[Hiro](#welcome) : That was my first fight. Can I try again?**
+> **[Hiro](#welcome) : That was my first fight. Can I try again?**（这是我第一次参赛，能再来一遍吗？）
 
-> **[Yama](#welcome) : No one likes a sore loser little boy.----Go home.**
+> **[Yama](#welcome) : No one likes a sore loser little boy.----Go home.**（别赖皮赖脸地跟我这儿撒娇，小子---- 滚吧）
 
-> **[Hiro](#welcome) : I’ve got more money...**
+> **[Hiro](#welcome) : I’ve got more money.**（我还有钱哟）
 
-> **Fighters ready?----Fight!**
+> **Fighters ready? Fight!**（准备好了吗？开战！）
 
-> **[Hiro](#welcome) : Megabot!----destroy.**
+> **[Hiro](#welcome) : Mega-bot, destroy.**（无敌机器人，毁灭模式）
 
-> **[Hiro](#welcome) : Not more “Little Yama”.**
+> **[Hiro](#welcome) : Not more Little Yama.**（你家小山挂咯）
 
-> **[Yama](#welcome) : But what?----This is not possible!**
+> **[Yama](#welcome) : But what? This is not possible!**（但是，怎么？这不可能）
 
-> **[Hiro](#welcome) : Hey, I’m as surprised as you are.Beginner’s luck.**
+> **[Hiro](#welcome) : Hey, I’m as surprised as you are.Beginner’s luck.**（我一样感到惊讶，可能我运气好）
 
-> **[Hiro](#welcome) : do you wanna go again?----Yama?**
+> **[Hiro](#welcome) : Do you wanna go again? Yama?**（想再来一局吗？大山）
 
-> **[Yama](#welcome) : No one hustles Yama!**
+> **[Yama](#welcome) : No one hustles Yama!**（没人敢耍我大山）
 
-> **[Hiro](#welcome) : Wooh!hey!**
+> **[Hiro](#welcome) : Wooh!hey!**（嗷，嘿）
 
-> **[Yama](#welcome) : Teach him a lesson!**
+> **[Yama](#welcome) : Teach him a lesson!**（给他点教训）
 
-> **[Tadashi](#welcome) : Hiro,get on!**
+> **[Hiro](#welcome) : Hey, fellas. Let's talk about this.**（伙计们，有话好好说）
 
-> **[Hiro](#welcome) : Tadashi,Ooh!Good timing.**
+> **[Tadashi](#welcome) : Hiro,get on!**（宏，上车）
 
-> **[Tadashi](#welcome) : Are you okay?**
+> **[Hiro](#welcome) : Tadashi,Ooh!Good timing.**（泰迪，你来的正好）
 
-> **[Hiro](#welcome) : yeah.**
+> **[Tadashi](#welcome) : Are you okay?**（你还好吗?）
 
-> **[Tadashi](#welcome) : Are you hurt?**
+> **[Hiro](#welcome) : yeah.**（是的）
 
-> **[Hiro](#welcome) : No!**
+> **[Tadashi](#welcome) : Are you hurt?**（你受伤了吗？）
 
-> **[Tadashi](#welcome) : Then, what are you thinking, knuckle head!**
+> **[Hiro](#welcome) : No!**（没）
 
-> **[Tadashi](#welcome) : You graduated high school and you’re > **[and this is what you’re doing---- Hold on!**
+> **[Tadashi](#welcome) : Then, what are you thinking, knucklehead?**（那你发的什么神经啊，傻瓜）
 
-> **[Tadashi](#welcome) : Bot fighting is illegal.You’re gonna get yourself arrested.**
+> **[Tadashi](#welcome) : You graduated high school when you were 13, and this is what you’re doing?**（你十三岁就高中毕业，现在居然干这个?）
 
-> **[Hiro](#welcome) : Bot fighting is not illegal.Betting on bot fighting...thats...that’s illegal.----But, so who could heed. I’m on a roll, big brother.----And there is no stopping me!**
+> **There they are!**（在那儿！）
 
-> **Oh, no.**
+> **[Tadashi](#welcome) : Hold on!**（抓紧了！）
 
-> **Hi,Aunt cass**
+> **[Hiro](#welcome) : Yes!**（好棒！）
 
-> **[Cass](#welcome) : Are you guys okay? Tell me you’re okay...**
+> **Get back here.**（给我回来）
 
-> **[Hiro](#welcome) : We’re fine.**
+> **[Tadashi](#welcome) : Bot fighting is illegal.You’re going to get yourself arrested.**（机器人格斗是违法的，你这样早晚会被警察抓走的）
 
-> **[Tadashi](#welcome) : We’re okay**
+> **[Hiro](#welcome) : Bot fighting is not illegal.Betting on bot fighting, thats...that’s illegal. But so lucrative! I’m on a roll, big brother! And there is no stopping me!**（机器人格斗本身不违法，拿来赌钱，那才是违法的，但收益颇丰。哥哥，我现在鸿运当头，没人能阻挡我的！）
+
+> **[Tadashi](#welcome) : Oh, no.**（噢，不好）
+
+> **[Hiro](#welcome) : Hi, Aunt Cass.**（卡斯阿姨）
+
+> **[Cass](#welcome) : Are you guys okay? Tell me you’re okay.**（你们没事吧，千万可别有事）
+
+> **[Hiro](#welcome) : We’re fine.**（放心啦）
+
+> **[Tadashi](#welcome) : We’re okay.**（我们很好）
+
+> **[Cass](#welcome) : Oh, good.**（那就好）
+
+---
 
 > **[Cass](#welcome) : Then what were you two knuckle heads inking?!---For > **[ears,I heed the best I could to raise you .---have I been perfect?No!----Do I know anything about children?No!----Should I pick a book on parenting?Probably?----Where I was going with this? I had a point...**
 
